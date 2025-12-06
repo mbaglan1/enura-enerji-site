@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Enura Enerji | Elektrik & Elektronik Pazarlama</title>
-  <meta name="description" content="Enura Enerji, elektrik ve elektronik malzeme tedariðinde iþletmelere hýzlý, güvenilir ve uygun fiyatlý çözümler sunar.">
+  <meta name="description" content="Enura Enerji, elektrik ve elektronik malzeme tedariÃ°inde iÃ¾letmelere hÃ½zlÃ½, gÃ¼venilir ve uygun fiyatlÃ½ Ã§Ã¶zÃ¼mler sunar.">
   <style>
     :root {
       --green: #4a7c59;
